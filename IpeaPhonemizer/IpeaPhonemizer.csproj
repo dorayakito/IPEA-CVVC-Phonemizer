@@ -1,15 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
     <Reference Include="OpenUtau.Core">
-      <HintPath>..\..\..\..\..\..\Program Files\OpenUtau\OpenUtau.Core.dll</HintPath>
+      <HintPath>C:\Program Files\UtauV\OpenUtau.Core.dll</HintPath>
     </Reference>
     <Reference Include="OpenUtau.Plugin.Builtin">
-      <HintPath>..\..\..\..\..\..\Program Files\OpenUtau\OpenUtau.Plugin.Builtin.dll</HintPath>
+      <HintPath>C:\Program Files\UtauV\OpenUtau.Plugin.Builtin.dll</HintPath>
     </Reference>
   </ItemGroup>
 
